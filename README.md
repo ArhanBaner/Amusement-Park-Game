@@ -23,3 +23,8 @@ After being satisfied with how many round points the user has, they can choose t
 
 <img src = "images/Build.png" width = "900">
 <img src = "images/Run.png" width = "900">
+
+
+### Sample Video
+
+[![Amusement Park Game](http://img.youtube.com/vi/TeGB1F8_7jQ/0.jpg)](http://www.youtube.com/watch?v=TeGB1F8_7jQ "Amusement Park Game")
