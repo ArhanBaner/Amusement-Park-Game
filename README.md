@@ -17,3 +17,9 @@ Consequences to continue rolling:
 - If you roll both one's (Snake Eyes), then your round pount and your account points gets reset to zzero
 
 After being satisfied with how many round points the user has, they can choose to bank the round points into their account points. There are five rounds in total, each accumulating the round points from before. After the five rounds, the game will be over and the buttons will be greyed out and a summary of the user statistics (average points earned, total number of rolls, etc.). The user can then choose their prize from the menu by indicating their choice number.
+
+### Images
+
+
+<img src = "images/Build.png" width = "900">
+<img src = "images/Run.png" width = "900">
