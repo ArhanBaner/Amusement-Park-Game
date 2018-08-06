@@ -1,6 +1,6 @@
 # Amusement Park Game
 
-Hello everyone, this is a simple game amusement park companies can implement while users wait in line for their ride or use in the arcade. The game cointains mainly GUI elements with the user simply clicking a few buttons and will be required to input a number when redeeming their prize. This game has been made so it runs completely random but with a few incentives and consequences if user keeps playing.
+Hello everyone, this is a simple game amusement park companies can implement while users wait in line for their ride or use in the arcade. The game contains mainly GUI elements with the user simply clicking a few buttons and will be required to input a number when redeeming their prize. This game has been made so it runs completely random but with a few incentives and consequences if user keeps playing.
 
 The player starts off by clicking on the Roll button to randomly generate two numbers from 1 - 6 and 1- 9 bounds respectively. These two numbers are then added together and deposited to the user's round total. The user can roll and deposit points to their account unlimited times during a round and can keep gaining points during a round. However, there are incentives and punishments to continue to roll.
 
