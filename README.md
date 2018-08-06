@@ -1,4 +1,4 @@
-# Amusement-Park-Game
+# Amusement Park Game
 
 Hello everyone, this is a simple game amusement park companies can implement while users wait in line for their ride or use in the arcade. The game cointains mainly GUI elements with the user simply clicking a few buttons and will be required to input a number when redeeming their prize. This game has been made so it runs completely random but with a few incentives and consequences if user keeps playing.
 
@@ -16,4 +16,4 @@ Consequences to continue rolling:
 - If the sum of your roll equals seven, then your round points gets cut in half
 - If you roll both one's (Snake Eyes), then your round pount and your account points gets reset to zzero
 
-After being satisfied with how many round points the user has, they can choose to bank the round points into their account points. There are five rounds in total, each accumalating the round points from before.
+After being satisfied with how many round points the user has, they can choose to bank the round points into their account points. There are five rounds in total, each accumulating the round points from before. After the five rounds, the game will be over and the buttons will be greyed out and a summary of the user statistics (average points earned, total number of rolls, etc.). The user can then choose their prize from the menu by indicating their choice number.
